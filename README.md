@@ -40,4 +40,4 @@ Passionate about building smart solutions, exploring modern technologies, and cr
 
 📧 Email: iam.surendhar.tech@gmail.com  
 💼 LinkedIn: www.linkedin.com/in/surendhar-s-183019396  
-🌍 Portfolio: your-portfolio-link
+
